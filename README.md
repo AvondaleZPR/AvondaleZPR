@@ -1,5 +1,12 @@
-### Hi there 👋
+### High 👋
+i call myself Avondale, but everybody calls me Roman, i'm from Russia
 
+i can write code, or speedrun games occasionally, but most times i do nothing
+**heres some links for ya:**
+* [PASTEBIN](https://pastebin.com/u/AvondaleTheProma)
+* [STEAM](https://steamcommunity.com/id/TheProma/)
+* [SPOTIFY PLAYLIST](https://open.spotify.com/playlist/0c9k4UqLBE3hxVkhYGyPDr)
+* [VKONTAKTE](https://vk.com/theproma)
 <!--
 **TheProma/TheProma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
