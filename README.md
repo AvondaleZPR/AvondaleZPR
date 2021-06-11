@@ -8,7 +8,7 @@ i call myself Avondale, but everybody calls me Roman, i'm from Russia. I can wri
 * [SPEEDRUN](https://www.speedrun.com/user/AvondaleZPR)
 * [SPOTIFY PLAYLIST](https://open.spotify.com/playlist/0c9k4UqLBE3hxVkhYGyPDr)
 * [VKONTAKTE](https://vk.com/theproma)
-* [TWITCH](https://www.twitch.tv/avzpr)
+* [TWITCH](https://www.twitch.tv/AvondaleZPR)
 
 # Programming
 Lua, C#, Java, JS, PHP.
