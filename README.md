@@ -4,7 +4,7 @@ i call myself Avondale, but everybody calls me Roman, i'm from Russia. I can wri
 # heres some links for ya
 * [PASTEBIN](https://pastebin.com/u/AvondaleTheProma)
 * [RELEASED CUSTOM GAMES](https://steamcommunity.com/sharedfiles/filedetails/?id=2357670620)
-* [STEAM](https://steamcommunity.com/id/TheProma/)
+* [STEAM](https://steamcommunity.com/id/AvondaleZPR/)
 * [SPEEDRUN](https://www.speedrun.com/user/AvondaleZPR)
 * [SPOTIFY PLAYLIST](https://open.spotify.com/playlist/0c9k4UqLBE3hxVkhYGyPDr)
 * [VKONTAKTE](https://vk.com/theproma)
